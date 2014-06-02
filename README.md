@@ -18,5 +18,6 @@ Awesomeness
 ```
 - Put script in head 
 ```js
-<script async="js/svg.js" async="async"></script>
+<script async="js/svg.js" async>
+</script>
 ```
