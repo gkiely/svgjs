@@ -1,7 +1,7 @@
-svgjs
+svg js
 =====
 
-Simplifying svg
+Simplifies svg
 
 Awesomeness 
 - Easy way to cache svg's
