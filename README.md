@@ -15,7 +15,7 @@ Awesomeness
 - Create div: 
 ```html 
 <div data-svg="svg_id"></div>
-```
+```js
 - Put script in head 
 ```
 <script async="js/svg.js" async></script>
