@@ -17,7 +17,6 @@ Awesomeness
 <div data-svg="svg_id"></div>
 ```
 - Put script in head 
-```js
-<script async="js/svg.js" async>
-</script>
+```
+<script async="js/svg.js" async></script>
 ```
