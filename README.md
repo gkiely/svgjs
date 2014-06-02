@@ -1,8 +1,6 @@
 svg js
 =====
 
-Simplifies svg.
-
 Awesomeness 
 - Easy way to cache svg's
 - Allows css styling of svg's
@@ -15,8 +13,9 @@ Awesomeness
 - Create div: 
 ```html 
 <div data-svg="svg_id"></div>
-```js
-- Put script in head 
 ```
+
+- Put script in head 
+```js
 <script async="js/svg.js" async></script>
 ```
